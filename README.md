@@ -1,0 +1,4 @@
+organizers
+==========
+
+NodeBots Organizers' Resources
